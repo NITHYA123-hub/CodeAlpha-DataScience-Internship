@@ -1,4 +1,4 @@
-# 🚀 CodeAlpha Data Science Internship Projects
+# 🚀 CodeNova Data Science Internship Projects
 
 This repository contains the projects completed during my Data Science Internship at CodeAlpha.
 
